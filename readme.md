@@ -5,6 +5,6 @@ The full client and server structure can be found [here](https://drive.google.co
 
 # Showcase
 ## Image
-![example_image](https://raw.githubusercontent.com/GenericExotic/Scratch-Multiplayer-Minecraft/refs/heads/main/assets/example_png.png)
+![example_image](https://raw.githubusercontent.com/DeveloperEclipse/Scratch-Multiplayer-Minecraft/refs/heads/main/assets/example_png.png)
 ## Video
-![example_video](https://github.com/GenericExotic/Scratch-Multiplayer-Minecraft/blob/main/assets/example_video.mp4)
+![Download example video]([https://github.com/GenericExotic/Scratch-Multiplayer-Minecraft/blob/main/assets/example_video.mp4](https://github.com/DeveloperEclipse/Scratch-Multiplayer-Minecraft/raw/refs/heads/main/assets/example_video.mp4))
